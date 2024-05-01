@@ -84,7 +84,7 @@ To maintain consistency, we categorized the websites into 24 distinct categories
 
 ●	Vehicles
 
- ![img](IN1.png)
+ ![img](IN2.png)
 ## Accessibility Analysis
 ●	For each archived website, we used the Axe DevTools Chrome Extension to conduct accessibility tests. 
 
@@ -97,7 +97,7 @@ To maintain consistency, we categorized the websites into 24 distinct categories
 ●	We analyzed the data to understand the blind users' experiences with LLMs and their requirements for accessing past web content.
 
 ●	We documented the findings to create a comprehensive case study on the interactions with LLMs and web archive
-
+![img](IN1.png)
  
 
 ## Implementation Details
@@ -198,6 +198,9 @@ Web Archive Navigation.
 ●	Challenges included outdated information, complex navigation, and missing accessibility features on websites.
 
 ●	Participants expressed a preference for computer-based access over mobile devices, indicating that more complex tasks required a desktop environment.
+![img](IN3.jpg)
+![img](IN4..jpg)
+
 
 ## Limitations and Areas for Improvement
 ●	The analysis was limited to the archived versions of websites, which may not represent their current state. 
