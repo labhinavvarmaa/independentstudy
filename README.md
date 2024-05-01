@@ -140,25 +140,39 @@ Challenges and Solutions
 # Analysis Results
 The analysis revealed a range of accessibility issues across the categories. Common issues included:
 ●	Missing alternative text for images
+
 ●	Inaccessible forms and buttons
+
 ●	Insufficient color contrast
+
 ●	Problems with keyboard navigation
+
 ●	Inconsistent use of semantic HTML
+
 These issues varied across different categories, with some experiencing more accessibility problems than others.
 ## Conversational AI with LLMs
 ●	Most participants had limited experience with conversational AI systems. Those who used them highlighted issues with inconsistent responses and lack of context.
+
 ●	Participants valued qualities like transparency, reliability, and a certain level of human-like interaction for trust and comfort.
+
 ●	They believed LLMs could help with information retrieval, navigation assistance, and providing social connection.
-Web Archive Navigation
+Web Archive Navigation.
+
 ●	Screen readers were the most common tool for accessing past web content. Voice assistants were less reliable due to their difficulty in understanding context.
+
 ●	Challenges included outdated information, complex navigation, and missing accessibility features on websites.
+
 ●	Participants expressed a preference for computer-based access over mobile devices, indicating that more complex tasks required a desktop environment.
 
 ## Limitations and Areas for Improvement
 ●	The analysis was limited to the archived versions of websites, which may not represent their current state. 
+
 ●	Additionally, some archived websites had limited interactivity, impacting the depth of analysis. 
+
 ●	Future work could focus on testing live websites or expanding the scope to cover additional accessibility standards.
+
 ●	One limitation was the relatively small sample size, which might not represent the broader blind community.
+
 ●	The study highlighted the need for more adaptive and context-aware tools to improve navigation and reduce accessibility barriers.
 
 ## Conclusion and Future Work
@@ -168,11 +182,17 @@ The user study offered valuable insights into the experiences of blind users wit
 Potential Future Directions
 ## Future work could involve:
 ●	Extending the analysis to live websites for a more comprehensive view of accessibility.
+
 ●	Automating the data collection and analysis process for increased efficiency.
+
 ●	Exploring additional accessibility standards and tools to gain a broader perspective.
+
 ●	Collaborating with website owners to address and resolve identified accessibility issues.
+
 ●	Future work could involve developing a prototype LLM system designed specifically for blind users, integrating voice and screen reader capabilities.
+
 ●	Further research with a larger sample size and more diverse demographic backgrounds could provide additional insights.
+
 ●	Collaboration with accessibility experts and blind user groups can help refine the design and implementation of LLM-based systems to better meet their need
 
 
