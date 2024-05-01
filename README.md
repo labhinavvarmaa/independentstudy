@@ -37,37 +37,67 @@ To address the problem statement, we conducted a user study with blind participa
 ## Categorization
 To maintain consistency, we categorized the websites into 24 distinct categories, each containing 50 websites. This categorization allowed for a systematic approach to data collection and analysis. The categories included:
 ●	Arts Entertainment
+
 ●	Business and Consumer Services
+
 ●	Community and Society
+
 ●	Computers, Electronics, and Technology
+
 ●	E-commerce and Shipping
+
 ●	Education
+
 ●	Finance
+
 ●	Food and Drinks
+
 ●	Gambling
+
 ●	Games
+
 ●	Government
+
 ●	Heavy Industry and Engineering
+
 ●	Hobbies and Leisure
+
 ●	Home and Garden
+
 ●	Jobs and Careers
+
 ●	Law and Government
+
 ●	Lifestyle
+
 ●	News and Media Publishers
+
 ●	Pets and Animals
+
 ●	Reference Materials
+
 ●	Science and Education
+
 ●	Sports
+
 ●	Travel and Tourism
+
 ●	Vehicles
- 
+
+ ![img](IN1.png)
 ## Accessibility Analysis
 ●	For each archived website, we used the Axe DevTools Chrome Extension to conduct accessibility tests. 
+
 ●	The tool generates a detailed JSON report containing information about accessibility issues, including the location of the problem on the website, applicable WCAG rules, and recommended solutions. 
+
 ●	We generated over 27,000 JSON files representing these accessibility reports.
+
 ●	We transcribed the recorded conversations and categorized the responses to identify common themes and insights.
+
 ●	We analyzed the data to understand the blind users' experiences with LLMs and their requirements for accessing past web content.
+
 ●	We documented the findings to create a comprehensive case study on the interactions with LLMs and web archive
+
  
 
 ## Implementation Details
@@ -89,13 +119,18 @@ The Axe DevTools Chrome Extension identifies accessibility issues with 100% cert
 Challenges Encountered
 One of the challenges encountered was accessing archived websites with varying levels of responsiveness and loading times. Additionally, some older websites lacked compatibility with modern testing tools, requiring adjustments in the data collection process. We addressed these challenges by using a flexible testing approach, ensuring consistent results.
 Conversational AI with LLMs
+
 ●	We provided a brief explanation of LLMs to the participants, describing them as advanced chatbots that can understand and respond to questions.
+
 ●	We asked a series of questions about their interactions with conversational AI, focusing on trust, human-like qualities, needs, and concerns regarding biases and stereotypes.
 
 ## Web Archive Navigation
 ●	We explored how blind users access past web content and the tools they use, focusing on screen readers and voice assistants.
+
 ●	We asked questions about the types of content they found most valuable and informative, their preferred devices for accessing past content, and the features or tools they found most helpful.
+
 ●	We addressed challenges and barriers faced by blind users when revisiting past web content, including usability, accessibility, and security.
+
 The Topic wise questions asked to the blind people. 
 Web Archive
 1. What specific types of web content, such as news, entertainment, sports, politics, science, and technology, do you find most valuable or informative when revisiting past content?
